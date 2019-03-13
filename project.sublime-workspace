@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"confirm",
+				"confirm_message"
+			],
+			[
+				"con",
+				"confirm_message"
+			],
+			[
+				"passwo",
+				"Password"
+			],
+			[
+				"com",
+				"com"
+			],
+			[
+				"emai",
+				"emailTo"
+			],
+			[
+				"ema",
+				"emailTo"
+			],
+			[
+				"em",
+				"emailFrom"
+			],
+			[
+				"Email",
+				"EMAIL_HOST"
+			],
+			[
+				"passw",
+				"Password"
+			],
+			[
+				"co",
+				"contactForm"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"f",
+				"contactForm"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"S",
+				"STATIC_URL"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"pr",
+				"profileAdmin"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"model",
+				"models"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hp/Desktop/project/src/profiles/templates/accounts/login.html",
+		"/C/Users/Hp/Desktop/project/src/profiles/templates/about.html",
+		"/C/Users/Hp/Desktop/project/src/profiles/templates/home.html",
+		"/C/Users/Hp/Desktop/project/src/profiles/templates/navbar.html",
+		"/C/Users/Hp/Desktop/project/src/project/settings.py",
+		"/C/Users/Hp/Desktop/project/src/profiles/templates/accounts/signup.html",
+		"/C/Users/Hp/Desktop/project/src/profiles/templates/accounts/logout.html",
+		"/C/Users/Hp/Desktop/project/src/project/__init__.py",
+		"/C/Users/Hp/Desktop/project/src/contact/views.py",
+		"/C/Users/Hp/Desktop/project/src/project/urls.py",
+		"/C/Users/Hp/Desktop/sett.py",
+		"/C/Users/Hp/Desktop/project/src/forms.py",
+		"/C/Users/Hp/Desktop/project/src/contact/templates/contact.html",
+		"/C/Users/Hp/Desktop/project/src/profiles/views.py",
+		"/C/Users/Hp/Desktop/project/static/static/css/main.css",
+		"/C/Users/Hp/Desktop/project/src/profiles/templates/base.html",
+		"/C/Users/Hp/Desktop/project/src/profiles/tests.py",
+		"/C/Users/Hp/Desktop/project/src/profiles/admin.py",
+		"/C/Users/Hp/Desktop/project/src/profiles/models.py",
+		"/C/Users/Hp/Desktop/project/src/profiles/templetes/home.html",
+		"/C/Users/Hp/Desktop/project/src/profiles/templete/home.html",
+		"/C/Users/Hp/Desktop/Dev/trydjango1-11/src/muypicky/muypicky/settings.py",
+		"/C/Users/Hp/Desktop/Dev/trydjango1-11/src/manage.py",
+		"/C/Users/Hp/Desktop/Dev/trydjango1-11/src/requirements.txt",
+		"/C/Users/Hp/Desktop/Dev/trydjango1-11/src/muypicky/settings/local.py",
+		"/C/Users/Hp/Desktop/Dev/trydjango1-11/src/muypicky/settings/production.py",
+		"/C/Users/Hp/Desktop/Dev/trydjango1-11/src/muypicky/settings/base.py",
+		"/C/Users/Hp/Desktop/Dev/trydjango1-11/src/muypicky/old_settings.py",
+		"/C/Users/Hp/Desktop/Dev/trydjango1-11/src/muypicky/settings/__init__.py",
+		"/C/Users/Hp/Desktop/Dev/trydjango1-11/src/muypicky/muypicky/__init__.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%}",
+			" }"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
